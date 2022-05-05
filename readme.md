@@ -20,7 +20,7 @@
 
 # Algorithms and Generative Modeling
 
-An early example of "manuel" modeling, [steel algorithms](https://soundcloud.com/folkstack/steel-algorithms), in which the steel drum is artificially produced by oscillating the mean value of the distribution of frequencies, among other tricks.  
+An early example of "manual" modeling, [steel algorithms](https://soundcloud.com/folkstack/steel-algorithms), in which the steel drum is artificially produced by oscillating the mean value of the distribution of frequencies, among other tricks.  
 
 Another example, a synthesizer with a modular web and midi interface for most of the algorithm parameters: [G-Tone](http://github.com/folkstack/g-tone).  
 The above algorithm is capable of producing a variety of sounds; it could be implemented in matrix ops and use gradient descent to reverse engineer real instruments and natural sounds (i.e. find their parameters).  As an example of this, reverse-fitting amplitudes [a la bezier curves](https://nhq.github.io/beezy/public/).  
